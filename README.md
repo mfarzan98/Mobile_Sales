@@ -22,3 +22,5 @@ Region/category-based performance comparison
 Clean and visually appealing charts for quick decision-making
 Data transformation and preprocessing using Power Query
 Business insights generated using DAX measures
+
+Screenshots-https://github.com/mfarzan98/Mobile_Sales/blob/main/Mobile_Sales.png
